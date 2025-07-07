@@ -13,15 +13,11 @@ This repository presents a comparative study on training a deep learning model f
 ```
 pneumonia-detection-tiber-vs-colab/
 │
-├── README.md
-├── requirements.txt
+├── README.me
 ├── colabchest.ipynb             # Notebook run on Google Colab
 ├── Chestpneumonia.ipynb         # Notebook run on Tiber Cloud
-├── results/
-│   ├── colab_metrics.txt        # Training time, accuracy, etc.
-│   └── tiber_metrics.txt
-└── benchmark/
-    └── os_level_summary.md      # OS/CPU/GPU differences (optional)
+├── colab_metrics.txt        # Training time, accuracy, etc.
+│── tiber_metrics.txt
 ```
 
 ---
