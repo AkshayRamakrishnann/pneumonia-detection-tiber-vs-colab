@@ -87,12 +87,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📸 Sample Grad-CAM Visualization
-
-_(Add image to `/images/comparison_chart.png` to illustrate model prediction insight)_
-
----
-
 ## 📜 License
 
 MIT License
