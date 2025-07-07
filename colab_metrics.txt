@@ -1,0 +1,23 @@
+
+📌 Google Colab - Training Summary
+
+🖥️ CPU: 2 vCPU (K80/TPU backend assumed)
+🧠 RAM: 12 GiB
+
+Epochs: 5
+Total Training Time: 2533.92 seconds
+Average Time per Epoch: 506.78 seconds
+
+Final Training Accuracy: 98.10%
+Final Validation Accuracy: 81.25%
+
+🧪 Test Evaluation:
+Accuracy: 0.79
+Loss: 0.9537
+Confusion Matrix:
+[[ 48 186]
+ [ 71 319]]
+Classification Report:
+NORMAL       — Precision: 0.40 | Recall: 0.21 | F1-score: 0.27
+PNEUMONIA    — Precision: 0.63 | Recall: 0.82 | F1-score: 0.71
+Overall Accuracy: 0.59

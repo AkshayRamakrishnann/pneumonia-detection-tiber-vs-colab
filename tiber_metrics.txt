@@ -1,0 +1,23 @@
+
+📌 Intel Tiber Cloud - Training Summary
+
+🖥️ CPU: Intel(R) Xeon(R) Platinum 8468V, 192 threads, 2.4 GHz
+🧠 RAM: 1.0 TiB total, ~872 GiB cached
+
+Epochs: 5
+Total Training Time: 479.97 seconds
+Average Time per Epoch: 95.99 seconds
+
+Final Training Accuracy: 98.69%
+Final Validation Accuracy: 81.25%
+
+🧪 Test Evaluation:
+Accuracy: 0.73
+Loss: 1.5470
+Confusion Matrix:
+[[ 26 209]
+ [ 46 344]]
+Classification Report:
+NORMAL       — Precision: 0.36 | Recall: 0.11 | F1-score: 0.17
+PNEUMONIA    — Precision: 0.62 | Recall: 0.88 | F1-score: 0.73
+Overall Accuracy: 0.59
